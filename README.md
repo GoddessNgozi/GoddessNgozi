@@ -32,7 +32,7 @@ const Ngozi = {
 ### <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="300">
 ## Find me around the web 🌎: <a href="https://github.com/GoddessNgozi"></a>
 - Tinkering with interactions on <a href="https://codepen.io/GoddessNgozi"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/GoddessNgozi/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/NgoziNwocha/">LinkedIn</a> 💼
 - Tweeting development on <a href="https://twitter.com/GoddessNgozi">Twitter</a> 
 - Contact me on <a href="NgozikaNwocha@gmail.com/">Gmail</a> 📫
 ## Latest Blog Post <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="50">
