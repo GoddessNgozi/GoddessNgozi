@@ -13,7 +13,7 @@ I am a software engineer who is passionate about building websites and web apps,
 const Ngozi = {
   fullName: "Ngozi Nwocha",
   studentAt: "Microverse",
-  currentlyLearning: "React, Redux",
+  currentlyLearning: "React", "Redux",
   lookingFor: "Front-end development opportunities" || "Full-stack web developement",
   pronouns: ["she", "her"],
   techStack: [JavaScript, React, Redux, HTML/CSS, Bootstrap],
